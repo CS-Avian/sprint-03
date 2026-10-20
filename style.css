@@ -1,0 +1,45 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+}
+
+main {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+form {
+  display: flex;
+  gap: 0.5rem;
+}
+
+input {
+  flex: 1;
+  padding: 0.5rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+}
+
+.card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-top: 1rem;
+  text-align: center;
+  overflow-wrap: anywhere;
+}
+
+.card img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+.card ul {
+  text-align: left;
+}
