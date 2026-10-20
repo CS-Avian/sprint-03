@@ -16,4 +16,4 @@ A responsive landing page built for Prodesk-IT.
 
 ## Preview
 
-Live Server Link -> https://sprint-02-three.vercel.app/
+Live Server Link -> https://sprint-03-nu.vercel.app/

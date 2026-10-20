@@ -4,14 +4,14 @@ AI tools were used during development for guidance, debugging, and design sugges
 
 ## Prompts Used
 
-### 1. Local Storage
+### 1. https check
 
-"How to add Local Storage"
+"How to check https is written or not by the user"
 
-### 2. Chart
+### 2. 404 Error
 
-"How can I add chart"
+"What is 404 error and how to implement in this project"
 
-### 3. Easy Writing
+### 3. Loading Screen
 
-"How to wright java script code in a good manner?"
+"How to add loading title when waiting for response"
